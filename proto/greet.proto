@@ -26,7 +26,7 @@ message HelloResponse{
   string message = 1;
 }
 
-message MessagesList{
+message MessageList{
   repeated string message = 1;
 }
 
